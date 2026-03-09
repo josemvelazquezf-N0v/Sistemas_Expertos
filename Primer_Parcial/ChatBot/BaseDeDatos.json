@@ -1,7 +1,6 @@
 {
     "intenciones": [
         {
-            "tag": "saludo",
             "patrones": [
                 "hola",
                 "buenas",
@@ -9,11 +8,11 @@
             ],
             "respuestas": [
                 "¡Hola! ¿En qué puedo ayudarte?",
-                "Hola, soy tu bot de Python."
+                "Hola, soy tu bot de Python.",
+                "Holiwis"
             ]
         },
         {
-            "tag": "despedida",
             "patrones": [
                 "adios",
                 "chao",
