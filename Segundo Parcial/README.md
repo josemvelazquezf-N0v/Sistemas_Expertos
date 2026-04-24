@@ -1,8 +1,5 @@
 # Investigación: Arquitectura de Sistemas Expertos (SE)
 
-Este repositorio documenta la investigación técnica sobre el funcionamiento de los **Sistemas Expertos**, enfocándose en la transformación del conocimiento humano en lógica computacional.
-
----
 
 ## 1. Adquisición del Conocimiento
 
